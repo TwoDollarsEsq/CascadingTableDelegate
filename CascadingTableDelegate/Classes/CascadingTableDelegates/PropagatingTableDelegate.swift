@@ -7,7 +7,7 @@
 //
 //
 
-import Foundation
+import UIKit
 
 /** 
 A `CascadingTableDelegate`-compliant class that propagates any `UITableViewDelegate` or `UITableViewDataSource` it received to its `childDelegates`, depending on its `propagationMode`.

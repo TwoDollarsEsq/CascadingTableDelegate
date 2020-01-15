@@ -6,7 +6,7 @@
 //
 //
 
-import Foundation
+import UIKit
 
 /**
 A `CascadingTableDelegate`-compliant class that implements the minimum requirement for the protocol. Use this class if you're thinking that implementing the `CascadingTableDelegate` manually is a hassle.
